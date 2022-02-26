@@ -6,5 +6,6 @@
 2. I testing update.
 3. testint errors rebase
 4. mudando mais uma vez 
+5.  testando com vs code o git 
 
 
