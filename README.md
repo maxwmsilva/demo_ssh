@@ -7,5 +7,6 @@
 3. testint errors rebase
 4. mudando mais uma vez 
 5.  testando com vs code o git 
+6.  send with vs code pull and push
 
 
